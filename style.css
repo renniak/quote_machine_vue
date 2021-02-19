@@ -1,0 +1,27 @@
+html,
+body,
+.container {
+  height: 100%;
+}
+
+body {
+  background-color: bisque;
+}
+
+.card {
+  max-width: 600px;
+  min-height: 250px;
+  padding: 20px;
+}
+
+[v-cloak] {
+  display: none;
+}
+
+.spinner-border {
+ margin-left: 50%;
+}
+
+.quote-icon {
+  margin-bottom: 20px;
+}
